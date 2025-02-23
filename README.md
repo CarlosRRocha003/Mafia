@@ -1,6 +1,5 @@
 MAFIA
 
-Um projeto pessoal com o objetivo de organizar as partidas do jogo mafia, com distribuição de papéis e turnos bem definidos
+A personal project designed to organize Mafia game sessions with clear role distribution and well-defined turns.
 
-A ideia inicial surgiu da necessidade de rever a linguagem python para uma matéria da faculdade.
-Foram feitas funções de turno, de distribuição de papéis e das restrições desses papéis.
+The initial idea for this project came from the need to revisit Python for a university course. It includes functions for managing turns, assigning roles, and enforcing role-specific restrictions.
